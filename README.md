@@ -1,4 +1,4 @@
-# Visual-Studio-2022-keyboard-shortcuts
+# Visual Studio 2022 keyboard shortcuts
 
 ## Text Navigation
 - **Ctrl + Left/Right** → Move cursor one word at a time
