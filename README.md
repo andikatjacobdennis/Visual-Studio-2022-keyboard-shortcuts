@@ -61,13 +61,13 @@
 - **Shift + F11** → Step out
 
 ## Code Snippets
-- `class` → Create class
-- `interface` → Create interface
-- `ctor` → Create constructor
-- `prop`/`propfull` → Auto-implemented property
-- `for`/`forr`/`foreach`/`while`/`do` → Loop templates
-- `try`/`tryf` → Try-catch/finally blocks
-- `equals` → equals method
+- **class** → Create class
+- **interface** → Create interface
+- **ctor** → Create constructor
+- **prop/propfull** → Auto-implemented property
+- **for/forr/foreach/while/do** → Loop templates
+- **try/tryf** → Try-catch/finally blocks
+- **equals** → equals method
 
 ## Formatting Code
 - **Tab** → Indent right
